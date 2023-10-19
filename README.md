@@ -14,3 +14,7 @@ public class Config
     public LoginInfo? LoginInfo { get; set; }
 }
 ```
+
+## Reference
+- [Configuration providers in .NET (Command-line)](https://learn.microsoft.com/en-us/dotnet/core/extensions/configuration-providers#command-line-configuration-provider)
+- 
